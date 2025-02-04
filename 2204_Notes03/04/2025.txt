@@ -51,20 +51,28 @@ Components of Corporation
 2. Incorporators
 - original/founders
 - corporator who executed and signed the agencies of incorporations
+- not more than 15
 3. stockholders
 - The corporator/owners of share of stock
 - maybe natural or juridical
 4. Members
 - corporation which has no capital stock
-5. BOD/Board of Directors
+5. BOD/Board of Directors/Trustees
 - Trustees
 6. Officers
 - President, Secretary, Treasurer
 
 Stock
 - Represents the interest of right which the owner has
+a. In the management of the corporation in which he takes part through his right to vote (if voting rights are permitted)
+b. In a portion of the corporate earnings, if and when segregated in the form of dividends
+c. Upon its dissolution and winding up, in the property and assets thereof remaining after the payment of corporate debts and liabilities
 
 Residual Assets - Leftover after payment to creditors & liabilities
+
+Net Assets - Assets minus liabilities
+
+A share of stoci is an asset of a stockholder. It is intangible because it is merely a representation of a right or interest in those three mentioned above
 
 Types of Capital
 1. Authorized CS
@@ -77,5 +85,6 @@ Authorized
 - Amount Fixed in the agencies of incorporations
 - Paid in money, property, labor/services
 - Also know as equity shares
-- AMount of stocks authorized to Issued
+- Amount of stocks authorized to issued
+
 
